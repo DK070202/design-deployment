@@ -9,3 +9,8 @@ This release introduces the following features to the design system:
 - **App Component**: Introduced a foundational app component to streamline application structure and integration.
 
 These enhancements lay the groundwork for a robust and scalable design system.
+
+
+## Release v0.1.1
+
+- Added support for the tooltip in on text for inspecting styling information. 
