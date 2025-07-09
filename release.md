@@ -14,3 +14,8 @@ These enhancements lay the groundwork for a robust and scalable design system.
 ## Release v0.1.1
 
 - Added support for the tooltip in on text for inspecting styling information. 
+
+## Release v0.1.2
+
+- Fixed color scheme. 
+- Added support for the icons.
